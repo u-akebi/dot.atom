@@ -1,0 +1,6 @@
+"*":
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "8772e4c3-a13a-4379-9cf3-8ae7179f7ca9"
